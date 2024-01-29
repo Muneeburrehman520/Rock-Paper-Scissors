@@ -57,3 +57,51 @@ img{
     padding: 1rem;
     border-radius: 1rem;
 }
+@media screen and (max-width:550px) {
+.choice{
+    width: 115px;
+    height: 115px;
+    /* margin: 10px; */
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+}
+@media screen and (max-width:420px){
+    .choice{
+        width: 90px;
+        height: 90px;
+        /* margin: 10px; */
+    }
+    img{
+        width: 80px;
+        height: 80px;
+    }
+    #user-score,
+#comp-score {
+    font-size: 2rem;
+}
+    #msg{
+        font-size: 1.3rem;
+    }
+}
+@media screen and (max-width:350px){
+    .choice{
+        width: 80px;
+        height: 80px;
+        /* margin: 10px; */
+    }
+    img{
+        width: 70px;
+        height: 70px;
+    }
+    #user-score,
+#comp-score {
+    font-size: 1.5rem;
+}
+    #msg{
+        font-size: 1.1rem;
+    }
+}
+
