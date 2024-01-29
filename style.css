@@ -61,7 +61,6 @@ img{
 .choice{
     width: 115px;
     height: 115px;
-    /* margin: 10px; */
 }
 img{
     width: 100px;
@@ -72,7 +71,6 @@ img{
     .choice{
         width: 90px;
         height: 90px;
-        /* margin: 10px; */
     }
     img{
         width: 80px;
@@ -90,7 +88,6 @@ img{
     .choice{
         width: 80px;
         height: 80px;
-        /* margin: 10px; */
     }
     img{
         width: 70px;
