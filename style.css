@@ -113,11 +113,4 @@ img{
   .score-board{
     font-size: 2rem;
   }
-  #user-score,
-#comp-score {
-  font-size: 2rem;
-}
-  #msg{
-      font-size: 0.8rem;
-  }
 }
