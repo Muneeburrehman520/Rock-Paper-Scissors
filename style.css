@@ -86,19 +86,19 @@ img{
 }
 @media screen and (max-width:350px){
     .choice{
-        width: 80px;
-        height: 80px;
-    }
-    img{
         width: 70px;
         height: 70px;
+    }
+    img{
+        width: 60px;
+        height: 60px;
     }
     #user-score,
 #comp-score {
     font-size: 1.5rem;
 }
     #msg{
-        font-size: 1.1rem;
+        font-size: 0.8rem;
     }
 }
 
